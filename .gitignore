@@ -1,2 +1,5 @@
 # IntelliJ
-.idea/
+.idea/misc.xml
+.idea/modules.xml
+.idea/Testing-the-Message-Flow.iml
+.idea/workspace.xml
